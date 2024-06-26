@@ -5,7 +5,6 @@
 #include <iomanip> // untuk membuat tabel lebih rapi
 
 using namespace std;
-namespace plt = matplotlibcpp;
 
 // Algoritma Bubble Sort
 void bubbleSort(vector<int>& arr) {
